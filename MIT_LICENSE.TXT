@@ -1,6 +1,6 @@
 ===============================================================
-Modifications to the LLVM Project for OpenCilk are licensed under the
-MIT License with the OpenCilk Addendum:
+Modifications to the LLVM Project for OpenCilk / RaptorAIare licensed under the
+MIT License with the OpenCilk / RaptorAI Addendum:
 ===============================================================
 
 Copyright (c) 2020 Massachusetts Institute of Technology
@@ -23,7 +23,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
 DEALINGS IN THE SOFTWARE.
 
----- OpenCilk Addendum to the MIT License ----
+---- OpenCilk / RaptorAI Addendum to the MIT License ----
 
 As an alternative to distributing the Software under this license, you may
 distribute the Software under the LLVM license.
