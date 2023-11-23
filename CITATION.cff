@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: If you use this software in your work, please cite it using the following metadata
+title: The phi monorepo
+authors:
+- name: LLVM, US Government, OpenCilk, RaptorAI
+version: 1.0.0
+year: 2020
+url: https://github.com/raptorai/phi
+repository: https://github.com/raptorai/phi
+license: Apache-2.0
